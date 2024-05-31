@@ -4,6 +4,11 @@
 
 Technical Strategy Analyzer is a sophisticated tool designed using Python and the Dash framework. It allows users to analyze and backtest technical trading strategies on various assets. The tool also verifies the robustness of these strategies through bootstrapping techniques, ensuring reliable performance metrics.
 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="ss/1.png" alt="Screenshot 1" style="width: 98%;">
+</div>
+
 ## Features
 
 - **Backtesting:** Analyze historical data to evaluate the performance of technical strategies with customizable parameters.
