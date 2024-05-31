@@ -15,6 +15,10 @@ Technical Strategy Analyzer is a sophisticated tool designed using Python and th
 - **Bootstrapping:** Employ resampling methods to validate strategy reliability and performance consistency.
 - **Interactive Interface:** Built with Dash for a user-friendly, web-based experience featuring dynamic graphs and controls.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="ss/2.png" alt="Screenshot 2" style="width: 98%;">
+</div>
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
