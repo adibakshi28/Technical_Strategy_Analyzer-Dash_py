@@ -4,16 +4,15 @@
 
 Technical Strategy Analyzer is a sophisticated tool designed using Python and the Dash framework. It allows users to analyze and backtest technical trading strategies on various assets. The tool also verifies the robustness of these strategies through bootstrapping techniques, ensuring reliable performance metrics.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="ss/1.png" alt="Screenshot 1" style="width: 98%;">
+</div>
+
 ## Colab Notebook
 
 You can also run the code using the provided Colab notebook for easy setup and execution:
 
-[Run in Colab]([https://colab.research.google.com/drive/1N5G0ZF7SOcaTzuPPo-gjM445cXxr4B5M?usp=sharing](https://colab.research.google.com/drive/15DW26LF3RR_pZwhrIh6Lmap6Ub_92_LO?usp=sharing))
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="ss/1.png" alt="Screenshot 1" style="width: 98%;">
-</div>
+[Run in Colab](https://colab.research.google.com/drive/15DW26LF3RR_pZwhrIh6Lmap6Ub_92_LO?usp=sharing)
 
 ## Features
 
